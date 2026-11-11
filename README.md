@@ -1,5 +1,12 @@
 # tedge-command-plugin
 
+> [!WARNING]
+> **This plugin is deprecated and is no longer maintained.**
+>
+> thin-edge.io 2.1.0 and later support the `c8y_Command` operation natively. If you use thin-edge.io 2.1.0 or later, remove this plugin and use the built-in support instead.
+>
+> This repository will be archived.
+
 thin-edge.io Cumulocity IoT shell plugin to process the `c8y_Command` operation.
 
 ## Plugin summary
